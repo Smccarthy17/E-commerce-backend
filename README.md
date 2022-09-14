@@ -1,6 +1,6 @@
 # E-commerce-backend
 
-This application is a back end for an internet retail company and uses the latest technologies to make the company competative with it's competition in the e-commerce arena.
+This application is a back end for an internet retail company and uses the latest technologies to make the company competative with it's competition in the e-commerce arena where the competition is fierce.
 
 ## Built with
 
